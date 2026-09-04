@@ -1,0 +1,6 @@
+{
+  "name": "Gherkinist",
+  "description": "Gherkinist is a multi-AI Gherkin feature file validator, quality assessor, and step definition generator made by Prepaid card team @iServeU.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
